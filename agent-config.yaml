@@ -1,0 +1,4 @@
+llm_endpoint_name: databricks-gpt-oss-120b
+vector_search:
+  index_name: dmi_genomics_qa_team_consenting_practice.bg_genai.docs_chunked_index
+  num_results: 3
